@@ -11,5 +11,4 @@ This repository includes several Python scripts for data analysis and visualizat
 - **plotting.py**: This script generates plots from the processed data, allowing for visual analysis of data trends.
 - **main.py** and **main1.py**: These scripts serve as entry points to execute the data processing and visualization workflows, integrating the functions from the other scripts.
 
-The repository is intended to simplify common data analysis tasks, providing reusable code snippets for reading, processing, and plotting data from various file formats.
 
